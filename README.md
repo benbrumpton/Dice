@@ -2,6 +2,4 @@
 
 iSO app for rolling a dice
 
-![test image size](https://github.com/benbrumpton/Dice/blob/master/Screenshot_2020-04-25_at_20.15.42.pngv=4&s=200)
-
-<img src="https://github.com/benbrumpton/Dice/blob/master/Screenshot_2020-04-25_at_20.15.42.png" width="100" height="100">
+<img src="https://github.com/benbrumpton/Dice/blob/master/Screenshot_2020-04-25_at_20.15.42.png" width="400" height="1000">
