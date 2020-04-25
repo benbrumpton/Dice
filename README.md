@@ -1,5 +1,5 @@
 # Dice
 
-Dice rolling iSO app
+iSO app for rolling a dice
 
-![Image description](screen_shot.png)
+<img src="https://github.com/benbrumpton/Dice/blob/master/Screenshot_2020-04-25_at_20.15.42.png" width="420">
