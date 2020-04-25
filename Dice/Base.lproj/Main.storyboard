@@ -16,15 +16,15 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="50" translatesAutoresizingMaskIntoConstraints="NO" id="tQx-rL-5hf">
-                                <rect key="frame" x="165.66666666666666" y="359" width="83" height="178"/>
+                                <rect key="frame" x="169.66666666666666" y="359" width="75" height="178"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dice-1" translatesAutoresizingMaskIntoConstraints="NO" id="ALh-Ee-JEb">
-                                        <rect key="frame" x="4" y="0.0" width="75" height="75"/>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="dice-6" translatesAutoresizingMaskIntoConstraints="NO" id="ALh-Ee-JEb">
+                                        <rect key="frame" x="0.0" y="0.0" width="75" height="75"/>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rSe-9J-Awc">
-                                        <rect key="frame" x="0.0" y="125" width="83" height="53"/>
+                                        <rect key="frame" x="5.3333333333333428" y="125" width="64" height="53"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="34"/>
-                                        <state key="normal" title="Roll!!!"/>
+                                        <state key="normal" title="Roll!"/>
                                         <connections>
                                             <action selector="rollDice:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2QK-Gx-W8w"/>
                                         </connections>
@@ -49,6 +49,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="dice-1" width="75" height="75"/>
+        <image name="dice-6" width="75" height="75"/>
     </resources>
 </document>
